@@ -1,6 +1,5 @@
 # IR-RF Receiver
-
-This project provides an ESP32-based solution for reading and recording both Infrared (IR) and Radio Frequency (RF) signals. It enables the decoding of signals from various remote controls and wireless devices, facilitating their integration into home automation by replaying recorded signals.
+ESP32-based solution for reading and recording both Infrared (IR) and Radio Frequency (RF) signals. It enables the decoding of signals from various remote controls and wireless devices, facilitating their integration into home automation by replaying recorded signals.
 
 ## Features
 
